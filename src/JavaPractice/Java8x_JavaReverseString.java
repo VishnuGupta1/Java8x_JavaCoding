@@ -1,4 +1,4 @@
-package test1;
+package JavaPractice;
 
 public class Java8x_JavaReverseString {
 
