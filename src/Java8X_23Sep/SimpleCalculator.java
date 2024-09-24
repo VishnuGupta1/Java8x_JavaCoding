@@ -8,7 +8,7 @@ public class SimpleCalculator {
  /*
     Create a simple calculator that performs addition,
      subtraction, multiplication, and division, modulas based on user input using switch statements
-add
+addjj
      */
 
         int num1=6;
