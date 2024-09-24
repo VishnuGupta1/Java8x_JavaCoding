@@ -11,9 +11,9 @@ public class SimpleCalculator {
 add
      */
 
-        int num1=10;
-        int num2=20;
-        char ch='+';
+        int num1=6;
+        int num2=8;
+        int ch='+';
 
         switch(ch){
             case '+':
