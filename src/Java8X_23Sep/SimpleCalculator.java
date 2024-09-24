@@ -5,7 +5,7 @@ public class SimpleCalculator {
     /*
     Create a simple calculator that performs addition,
      subtraction, multiplication, and division, modus based on user input using switch statements
-
+add
      */
 
     public static void main(String[] args){

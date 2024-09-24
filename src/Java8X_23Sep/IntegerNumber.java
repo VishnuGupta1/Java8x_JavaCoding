@@ -4,7 +4,7 @@ public class IntegerNumber {
     public static void main(String[] args){
 
         /*
-
+Add
         Write a program that takes an integer input (1-12) and
         prints the name of the corresponding month using a switch statement.
 Input  - 12
