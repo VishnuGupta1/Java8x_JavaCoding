@@ -36,14 +36,21 @@ public class Java8X_DataTypesExample1 {
         System.out.println();
         System.out.printf("%d * %d = %d",num,3,num*3);
         */
-
+/*
         //Example
         String Firstname="Vishnu Kumar";
         String lastname="gupta";
 
 System.out.printf("your name is firstname %s and lastname is %s", Firstname,lastname);
 
+*/
+        short s = 10;
 
+        char c = 'A'; //65
+
+        int ss = s+c;
+
+        System.out.println(ss);
 
     }
 

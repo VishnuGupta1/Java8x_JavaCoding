@@ -1,4 +1,4 @@
-package test1;
+package JavaPractice;
 
 public class HelloWorldPrint {
     public static void main(String[] args){

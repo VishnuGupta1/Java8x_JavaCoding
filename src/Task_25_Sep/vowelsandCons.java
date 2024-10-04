@@ -4,7 +4,7 @@ public class vowelsandCons {
     public static void main(String[] args) {
 
 
-        String s="Indiamart";
+        String s="Pramod";
         int vowels=0;
         int nonvowels=0;
 
