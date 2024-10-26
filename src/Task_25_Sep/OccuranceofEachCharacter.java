@@ -40,7 +40,7 @@ public class OccuranceofEachCharacter {
     {
        // characterCount("Java J2EE Java JSP J2EE");
 
-        characterCount("abcdeae");
+        characterCount("Vishnu");
 
         //characterCount("Done And Gone");
             }
