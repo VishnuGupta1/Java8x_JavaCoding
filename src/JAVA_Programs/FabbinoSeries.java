@@ -1,4 +1,4 @@
-package Task_25_Sep;
+package JAVA_Programs;
 
 public class FabbinoSeries {
     //Fibonacci Series in Java without using recursion

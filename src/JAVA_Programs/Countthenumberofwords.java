@@ -1,6 +1,4 @@
-package Task_25_Sep;
-
-import java.util.Scanner;
+package JAVA_Programs;
 
 public class Countthenumberofwords {
     public static void main(String[] args) {

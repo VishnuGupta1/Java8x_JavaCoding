@@ -1,4 +1,4 @@
-package Task_25_Sep;
+package JAVA_Programs;
 import java.util.Arrays;
 
 public class SecondHihestvalueinArray {
@@ -25,7 +25,7 @@ public class SecondHihestvalueinArray {
         }
 
     public static void main(String[] args) {
-        int[] arr = { 2,78,90 };
+        int[] arr = { 5,6,7,10,5,8,89 };
         System.out.println(highestvalue(arr));
 
 

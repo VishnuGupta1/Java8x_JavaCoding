@@ -1,4 +1,4 @@
-package Task_25_Sep;
+package JAVA_Programs;
 
 public class HihestNumberinArray {
     public static void main(String[] args){

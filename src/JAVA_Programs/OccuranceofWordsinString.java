@@ -1,7 +1,6 @@
-package Task_25_Sep;
+package JAVA_Programs;
 
 
-import javax.print.DocFlavor;
 import java.util.HashMap;
 //import java.util.HashMap;
 
@@ -9,7 +8,7 @@ public class OccuranceofWordsinString {
     public static void main(String[] args) {
 
         String s="Welcome to India";
-
+/*
         //Declare a Hashmap
 
         HashMap<String, Integer> hashmap=new HashMap<>();
@@ -29,8 +28,21 @@ public class OccuranceofWordsinString {
 
             }
            System.out.println(hashmap);
+*/
+        HashMap<Character,Integer> map=new HashMap<>();
+
+       // String[] words=s.split(" ");
+        for(char c:s.toCharArray()){//convert sequence of characters
+            
+
+
 
         }
 
+        System.out.println(map);
     }
 }
+
+
+
+        
