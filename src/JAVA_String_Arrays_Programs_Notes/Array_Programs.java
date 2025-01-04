@@ -1,5 +1,5 @@
+package JAVA_String_Arrays_Programs_Notes;
 
-import java.util.*;
 public class Array_Programs {
 
 /*

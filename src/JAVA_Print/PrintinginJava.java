@@ -1,4 +1,4 @@
-package PrintinJAVA;
+package JAVA_Print;
 
 public class PrintinginJava {
     public static void main(String[] args){
